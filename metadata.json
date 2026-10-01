@@ -1,0 +1,8 @@
+{
+  "name": "FinPulse - Smart Financial Health Analyzer",
+  "description": "Comprehensive financial health assessment web app with dynamic grid inputs, real-time safety scores, interactive charts, and AI-powered recommendations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
